@@ -4,4 +4,4 @@
 A simple implementation of discrete hidden markov model includes calculating forward algorithm, viterbi algorithm and supervised learning. The observations are words and the states are part-of-speech tags. The accuracy of this example is near 90%.
 
 <h2>Continuous hmm:</h2>
-An example of using ghmm package includes calculating likelihood, decoding and learning. 
+An example of using ghmm package to learn continuous hidden markov model.
